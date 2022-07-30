@@ -127,8 +127,9 @@ Chusespo
 
 ## Author Info
 
-- LinkedIn - [Dwaraka Poreddy](https://www.linkedin.com/in/dwarakanath-reddy-poreddy-3bbb231b1/)
-- Github - [Dwaraka Poreddy](https://github.com/Dwaraka-Poreddy)
+- LinkedIn - [Siri Pulakanti](https://www.linkedin.com/in/siri-chandana-pulakanti/)
+- Github - [Siri Pulakanti](https://github.com/Siri-Pulakanti/)
+
 
 #### [Back To The Top](#Chusespo)
 
